@@ -1,0 +1,14 @@
+ua/kpi/compys/iv8108/ui/main/contrClass.java
+ ua.kpi.compys.iv8108.ui.main.contrClass
+ua/kpi/compys/iv8108/ui/main/holderClass.java
+ ua.kpi.compys.iv8108.ui.main.holderClass
+ua/kpi/compys/iv8108/ui/main/drawClass.java
+ ua.kpi.compys.iv8108.ui.main.drawClass
+ua/kpi/compys/iv8108/ui/main/viewClass.java
+ ua.kpi.compys.iv8108.ui.main.viewClass
+ua/kpi/compys/iv8108/ui/main/sectionClass.java
+ ua.kpi.compys.iv8108.ui.main.sectionClass
+ua/kpi/compys/iv8108/BuildConfig.java
+ ua.kpi.compys.iv8108.BuildConfig
+ua/kpi/compys/iv8108/MainActivity.java
+ ua.kpi.compys.iv8108.MainActivity

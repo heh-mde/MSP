@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Lab 2</string>
+    <string name="title">Lab2</string>
+    <string name="name"><pre>Boikivskiy Andriy\nGroup IV-81\nЗК IV-8108</pre></string>
+    <string name="screen_1">General</string>
+    <string name="screen_2">Item 2</string>
+    <string name="selector"> </string>
+    <string name="diagram">Diagram</string>
+    <string name="graphic">Graphic</string>
+</resources>
