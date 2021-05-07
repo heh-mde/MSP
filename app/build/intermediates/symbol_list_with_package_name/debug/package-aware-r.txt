@@ -1884,7 +1884,6 @@ mipmap ic_launcher
 mipmap ic_launcher_foreground
 mipmap ic_launcher_round
 plurals mtrl_badge_content_description
-raw bookslist
 raw movieslist
 string abc_action_bar_home_description
 string abc_action_bar_up_description

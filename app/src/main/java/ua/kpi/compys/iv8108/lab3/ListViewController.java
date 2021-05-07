@@ -62,10 +62,10 @@ public class ListViewController extends Fragment {
     }
 
     private ArrayList<Movie> processingJsonObj(JSONObject jsonObject) throws JSONException {
-        JSONArray booksInJSON = jsonObject.getJSONArray("Search");
+        JSONArray moviesInJSON = jsonObject.getJSONArray("Search");
         ArrayList<Movie> library = new ArrayList<>();
-        for (int i = 0; i < booksInJSON.length(); i++) {
-            JSONObject c = booksInJSON.getJSONObject(i);
+        for (int i = 0; i < moviesInJSON.length(); i++) {
+            JSONObject c = moviesInJSON.getJSONObject(i);
             String title = c.getString("Title");
             String year = c.getString("Year");
             String imdbID = c.getString("imdbID");
