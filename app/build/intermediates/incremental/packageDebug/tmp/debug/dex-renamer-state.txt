@@ -1,0 +1,7 @@
+#Sun May 09 19:53:39 EEST 2021
+base.1=C\:\\IdeaProjects\\lab_3\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\classes.dex
+path.1=classes.dex
+base.0=C\:\\IdeaProjects\\lab_3\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
+path.0=classes.dex

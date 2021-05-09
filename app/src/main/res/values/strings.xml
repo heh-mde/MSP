@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Lab 3</string>
+    <string name="title">Lab3</string>
+    <string name="title_activity_lab1">Lab 3</string>
+    <string name="home_label"><pre>Boikivskiy Andriy\nGroup IV-81\nЗК IV-8108</pre></string>
+    <string name="tab_text_1">General</string>
+    <string name="tab_text_2">Item 2</string>
+    <string name="tab_text_3">Movies</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="diagram">Diagram</string>
+    <string name="view_mode">View mode</string>
+    <string name="graphic">Graphic</string>
+    <string name="movie_poster">movie_poster</string>
+</resources>
