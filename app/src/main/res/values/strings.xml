@@ -1,6 +1,10 @@
 <resources>
-    <string name="app_name">Lab 3</string>
-    <string name="title">Lab3</string>
+    <string name="app_name">Lab 4</string>
+    <string name="bar_title">Lab4</string>
+    <string name="title">Title</string>
+    <string name="year">Year</string>
+    <string name="type">Type</string>
+    <string name="add">ADD</string>
     <string name="title_activity_lab1">Lab 3</string>
     <string name="home_label"><pre>Boikivskiy Andriy\nGroup IV-81\nЗК IV-8108</pre></string>
     <string name="tab_text_1">General</string>

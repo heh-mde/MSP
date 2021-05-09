@@ -9,7 +9,7 @@ import androidx.fragment.app.FragmentManager;
 import androidx.fragment.app.FragmentPagerAdapter;
 
 import ua.kpi.compys.iv8108.R;
-import ua.kpi.compys.iv8108.lab3.ListViewController;
+import ua.kpi.compys.iv8108.lab4.ListViewController;
 
 public class SectionsPagerAdapter extends FragmentPagerAdapter {
 

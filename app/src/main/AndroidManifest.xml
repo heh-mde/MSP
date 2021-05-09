@@ -9,8 +9,10 @@
         android:roundIcon="@mipmap/ic_launcher"
         android:supportsRtl="true"
         android:theme="@style/Theme.MP_Lab">
+        <activity android:name=".lab4.AddMovieActivity" />
+        <activity android:name=".lab4.MovieActivity" />
         <activity
-            android:name="ua.kpi.compys.iv8108.MainActivity"
+            android:name=".MainActivity"
             android:label="@string/app_name"
             android:theme="@style/Theme.MP_Lab.NoActionBar">
             <intent-filter>

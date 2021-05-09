@@ -11,7 +11,7 @@
 9-->C:\IdeaProjects\lab_3\app\src\main\AndroidManifest.xml
 10
 11    <application
-11-->C:\IdeaProjects\lab_3\app\src\main\AndroidManifest.xml:5:5-22:19
+11-->C:\IdeaProjects\lab_3\app\src\main\AndroidManifest.xml:5:5-24:19
 12        android:allowBackup="true"
 12-->C:\IdeaProjects\lab_3\app\src\main\AndroidManifest.xml:6:9-35
 13        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
@@ -29,25 +29,31 @@
 20        android:testOnly="true"
 21        android:theme="@style/Theme.MP_Lab" >
 21-->C:\IdeaProjects\lab_3\app\src\main\AndroidManifest.xml:11:9-44
-22        <activity
-22-->C:\IdeaProjects\lab_3\app\src\main\AndroidManifest.xml:12:9-21:20
-23            android:name="ua.kpi.compys.iv8108.MainActivity"
-23-->C:\IdeaProjects\lab_3\app\src\main\AndroidManifest.xml:13:13-61
-24            android:label="@string/app_name"
-24-->C:\IdeaProjects\lab_3\app\src\main\AndroidManifest.xml:14:13-45
-25            android:theme="@style/Theme.MP_Lab.NoActionBar" >
-25-->C:\IdeaProjects\lab_3\app\src\main\AndroidManifest.xml:15:13-60
-26            <intent-filter>
-26-->C:\IdeaProjects\lab_3\app\src\main\AndroidManifest.xml:16:13-20:29
-27                <action android:name="android.intent.action.MAIN" />
-27-->C:\IdeaProjects\lab_3\app\src\main\AndroidManifest.xml:17:17-69
-27-->C:\IdeaProjects\lab_3\app\src\main\AndroidManifest.xml:17:25-66
-28
-29                <category android:name="android.intent.category.LAUNCHER" />
-29-->C:\IdeaProjects\lab_3\app\src\main\AndroidManifest.xml:19:17-77
-29-->C:\IdeaProjects\lab_3\app\src\main\AndroidManifest.xml:19:27-74
-30            </intent-filter>
-31        </activity>
-32    </application>
-33
-34</manifest>
+22        <activity android:name="ua.kpi.compys.iv8108.lab4.AddMovieActivity" />
+22-->C:\IdeaProjects\lab_3\app\src\main\AndroidManifest.xml:12:9-59
+22-->C:\IdeaProjects\lab_3\app\src\main\AndroidManifest.xml:12:19-56
+23        <activity android:name="ua.kpi.compys.iv8108.lab4.MovieActivity" />
+23-->C:\IdeaProjects\lab_3\app\src\main\AndroidManifest.xml:13:9-56
+23-->C:\IdeaProjects\lab_3\app\src\main\AndroidManifest.xml:13:19-53
+24        <activity
+24-->C:\IdeaProjects\lab_3\app\src\main\AndroidManifest.xml:14:9-23:20
+25            android:name="ua.kpi.compys.iv8108.MainActivity"
+25-->C:\IdeaProjects\lab_3\app\src\main\AndroidManifest.xml:15:13-41
+26            android:label="@string/app_name"
+26-->C:\IdeaProjects\lab_3\app\src\main\AndroidManifest.xml:16:13-45
+27            android:theme="@style/Theme.MP_Lab.NoActionBar" >
+27-->C:\IdeaProjects\lab_3\app\src\main\AndroidManifest.xml:17:13-60
+28            <intent-filter>
+28-->C:\IdeaProjects\lab_3\app\src\main\AndroidManifest.xml:18:13-22:29
+29                <action android:name="android.intent.action.MAIN" />
+29-->C:\IdeaProjects\lab_3\app\src\main\AndroidManifest.xml:19:17-69
+29-->C:\IdeaProjects\lab_3\app\src\main\AndroidManifest.xml:19:25-66
+30
+31                <category android:name="android.intent.category.LAUNCHER" />
+31-->C:\IdeaProjects\lab_3\app\src\main\AndroidManifest.xml:21:17-77
+31-->C:\IdeaProjects\lab_3\app\src\main\AndroidManifest.xml:21:27-74
+32            </intent-filter>
+33        </activity>
+34    </application>
+35
+36</manifest>
