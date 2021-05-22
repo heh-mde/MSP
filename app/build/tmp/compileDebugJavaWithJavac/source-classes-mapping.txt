@@ -1,0 +1,41 @@
+ua/kpi/compys/iv8108/lab4/Movie.java
+ ua.kpi.compys.iv8108.lab4.Movie
+ua/kpi/compys/iv8108/lab4/AddMovieActivity.java
+ ua.kpi.compys.iv8108.lab4.AddMovieActivity
+ ua.kpi.compys.iv8108.lab4.AddMovieActivity$1
+ ua.kpi.compys.iv8108.lab4.AddMovieActivity$2
+ua/kpi/compys/iv8108/lab4/ListViewController.java
+ ua.kpi.compys.iv8108.lab4.ListViewController
+ ua.kpi.compys.iv8108.lab4.ListViewController$1
+ ua.kpi.compys.iv8108.lab4.ListViewController$2
+ ua.kpi.compys.iv8108.lab4.ListViewController$3
+ua/kpi/compys/iv8108/lab4/MoviesAdapter.java
+ ua.kpi.compys.iv8108.lab4.MoviesAdapter
+ ua.kpi.compys.iv8108.lab4.MoviesAdapter$OnMovieListener
+ ua.kpi.compys.iv8108.lab4.MoviesAdapter$ViewHolder
+ua/kpi/compys/iv8108/lab4/MovieActivity.java
+ ua.kpi.compys.iv8108.lab4.MovieActivity
+ua/kpi/compys/iv8108/ui/main/DrawingViewController.java
+ ua.kpi.compys.iv8108.ui.main.DrawingViewController
+ ua.kpi.compys.iv8108.ui.main.DrawingViewController$1
+ua/kpi/compys/iv8108/gallery/GalleryAdapter.java
+ ua.kpi.compys.iv8108.gallery.GalleryAdapter
+ ua.kpi.compys.iv8108.gallery.GalleryAdapter$ViewHolder
+ua/kpi/compys/iv8108/MainActivity.java
+ ua.kpi.compys.iv8108.MainActivity
+ua/kpi/compys/iv8108/ui/main/SectionsPagerAdapter.java
+ ua.kpi.compys.iv8108.ui.main.SectionsPagerAdapter
+ua/kpi/compys/iv8108/gallery/Picture.java
+ ua.kpi.compys.iv8108.gallery.Picture
+ua/kpi/compys/iv8108/ui/main/PlaceholderFragment.java
+ ua.kpi.compys.iv8108.ui.main.PlaceholderFragment
+ua/kpi/compys/iv8108/gallery/GalleryFragment.java
+ ua.kpi.compys.iv8108.gallery.GalleryFragment
+ ua.kpi.compys.iv8108.gallery.GalleryFragment$1
+ ua.kpi.compys.iv8108.gallery.GalleryFragment$2
+ua/kpi/compys/iv8108/ui/main/PageViewModel.java
+ ua.kpi.compys.iv8108.ui.main.PageViewModel
+ua/kpi/compys/iv8108/ui/main/Tab1ViewController.java
+ ua.kpi.compys.iv8108.ui.main.Tab1ViewController
+ua/kpi/compys/iv8108/BuildConfig.java
+ ua.kpi.compys.iv8108.BuildConfig
