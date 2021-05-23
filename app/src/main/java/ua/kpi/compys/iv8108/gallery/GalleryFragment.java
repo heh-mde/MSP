@@ -60,7 +60,7 @@ public class GalleryFragment extends Fragment {
 //        recView.setHasFixedSize(true);
         recView.setLayoutManager(new LinearLayoutManager(view.getContext()));
 
-        String url = "https://pixabay.com/api/?key=21741631-524c049dd4f11548521652d69&q=programming&image_type=photo&per_page=24";
+        String url = "https://pixabay.com/api/?key=21741631-524c049dd4f11548521652d69&q=small+animals&image_type=photo&per_page=18";
         AndroidNetworking.get(url)
                 .setPriority(Priority.LOW)
                 .build()

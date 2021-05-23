@@ -11,12 +11,4 @@
         app:actionViewClass="androidx.appcompat.widget.SearchView"
         app:showAsAction="collapseActionView|ifRoom" />
 
-    <item
-        android:id="@+id/actionAddMovie"
-        android:icon="@android:drawable/ic_menu_add"
-        android:title="add"
-        app:actionViewClass="androidx.appcompat.widget.ButtonBarLayout"
-        app:showAsAction="ifRoom" />
-
-
 </menu>

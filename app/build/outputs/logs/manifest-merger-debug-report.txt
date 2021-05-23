@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\IdeaProjects\lab_5\app\src\main\AndroidManifest.xml:2:1-26:12
-INJECTED from C:\IdeaProjects\lab_5\app\src\main\AndroidManifest.xml:2:1-26:12
-INJECTED from C:\IdeaProjects\lab_5\app\src\main\AndroidManifest.xml:2:1-26:12
-INJECTED from C:\IdeaProjects\lab_5\app\src\main\AndroidManifest.xml:2:1-26:12
+ADDED from C:\IdeaProjects\lab5\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from C:\IdeaProjects\lab5\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from C:\IdeaProjects\lab5\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from C:\IdeaProjects\lab5\app\src\main\AndroidManifest.xml:2:1-25:12
 MERGED from [com.google.android.material:material:1.1.0] C:\Users\hehmde\.gradle\caches\transforms-2\files-2.1\8ad8269c0a879b235a19dc8e7219d938\material-1.1.0\AndroidManifest.xml:17:1-24:12
 MERGED from [com.amitshekhar.android:android-networking:1.0.2] C:\Users\hehmde\.gradle\caches\transforms-2\files-2.1\33339155e0732cdc9b7c5864d106c0a9\jetified-android-networking-1.0.2\AndroidManifest.xml:18:1-27:12
 MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\hehmde\.gradle\caches\transforms-2\files-2.1\9f7e7a548ad00e2e3c3268a409525997\appcompat-1.1.0\AndroidManifest.xml:17:1-24:12
@@ -52,25 +52,25 @@ MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\User
 MERGED from [androidx.print:print:1.0.0] C:\Users\hehmde\.gradle\caches\transforms-2\files-2.1\634f2f03e50a0eb4514a8d791ceb2f13\print-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\hehmde\.gradle\caches\transforms-2\files-2.1\054d779a91766207571d826869795163\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [com.koushikdutta.async:androidasync:3.1.0] C:\Users\hehmde\.gradle\caches\transforms-2\files-2.1\1b73e401c708a1e6517a46f007c56820\jetified-androidasync-3.1.0\AndroidManifest.xml:2:1-16:12
-INJECTED from C:\IdeaProjects\lab_5\app\src\main\AndroidManifest.xml:2:1-26:12
-INJECTED from C:\IdeaProjects\lab_5\app\src\main\AndroidManifest.xml:2:1-26:12
-INJECTED from C:\IdeaProjects\lab_5\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from C:\IdeaProjects\lab5\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from C:\IdeaProjects\lab5\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from C:\IdeaProjects\lab5\app\src\main\AndroidManifest.xml:2:1-25:12
 	package
-		ADDED from C:\IdeaProjects\lab_5\app\src\main\AndroidManifest.xml:3:5-35
-		INJECTED from C:\IdeaProjects\lab_5\app\src\main\AndroidManifest.xml
-		INJECTED from C:\IdeaProjects\lab_5\app\src\main\AndroidManifest.xml
+		ADDED from C:\IdeaProjects\lab5\app\src\main\AndroidManifest.xml:3:5-35
+		INJECTED from C:\IdeaProjects\lab5\app\src\main\AndroidManifest.xml
+		INJECTED from C:\IdeaProjects\lab5\app\src\main\AndroidManifest.xml
 	android:versionName
-		INJECTED from C:\IdeaProjects\lab_5\app\src\main\AndroidManifest.xml
-		ADDED from C:\IdeaProjects\lab_5\app\src\main\AndroidManifest.xml:2:1-26:12
-		INJECTED from C:\IdeaProjects\lab_5\app\src\main\AndroidManifest.xml
+		INJECTED from C:\IdeaProjects\lab5\app\src\main\AndroidManifest.xml
+		ADDED from C:\IdeaProjects\lab5\app\src\main\AndroidManifest.xml:2:1-25:12
+		INJECTED from C:\IdeaProjects\lab5\app\src\main\AndroidManifest.xml
 	android:versionCode
-		INJECTED from C:\IdeaProjects\lab_5\app\src\main\AndroidManifest.xml
-		ADDED from C:\IdeaProjects\lab_5\app\src\main\AndroidManifest.xml:2:1-26:12
-		INJECTED from C:\IdeaProjects\lab_5\app\src\main\AndroidManifest.xml
+		INJECTED from C:\IdeaProjects\lab5\app\src\main\AndroidManifest.xml
+		ADDED from C:\IdeaProjects\lab5\app\src\main\AndroidManifest.xml:2:1-25:12
+		INJECTED from C:\IdeaProjects\lab5\app\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from C:\IdeaProjects\lab_5\app\src\main\AndroidManifest.xml:2:11-69
+		ADDED from C:\IdeaProjects\lab5\app\src\main\AndroidManifest.xml:2:11-69
 application
-ADDED from C:\IdeaProjects\lab_5\app\src\main\AndroidManifest.xml:5:5-24:19
+ADDED from C:\IdeaProjects\lab5\app\src\main\AndroidManifest.xml:5:5-23:19
 MERGED from [com.google.android.material:material:1.1.0] C:\Users\hehmde\.gradle\caches\transforms-2\files-2.1\8ad8269c0a879b235a19dc8e7219d938\material-1.1.0\AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.material:material:1.1.0] C:\Users\hehmde\.gradle\caches\transforms-2\files-2.1\8ad8269c0a879b235a19dc8e7219d938\material-1.1.0\AndroidManifest.xml:22:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\hehmde\.gradle\caches\transforms-2\files-2.1\d6fdfaaabf2017e1a46426335e1b873c\constraintlayout-1.1.3\AndroidManifest.xml:9:5-20
@@ -86,47 +86,43 @@ MERGED from [com.koushikdutta.async:androidasync:3.1.0] C:\Users\hehmde\.gradle\
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.1.0] C:\Users\hehmde\.gradle\caches\transforms-2\files-2.1\ae31cc97a3f9383e0242537d69427d3a\core-1.1.0\AndroidManifest.xml:24:18-86
 	android:supportsRtl
-		ADDED from C:\IdeaProjects\lab_5\app\src\main\AndroidManifest.xml:10:9-35
+		ADDED from C:\IdeaProjects\lab5\app\src\main\AndroidManifest.xml:10:9-35
 	android:label
-		ADDED from C:\IdeaProjects\lab_5\app\src\main\AndroidManifest.xml:8:9-41
+		ADDED from C:\IdeaProjects\lab5\app\src\main\AndroidManifest.xml:8:9-41
 	android:roundIcon
-		ADDED from C:\IdeaProjects\lab_5\app\src\main\AndroidManifest.xml:9:9-48
+		ADDED from C:\IdeaProjects\lab5\app\src\main\AndroidManifest.xml:9:9-48
 	android:icon
-		ADDED from C:\IdeaProjects\lab_5\app\src\main\AndroidManifest.xml:7:9-43
+		ADDED from C:\IdeaProjects\lab5\app\src\main\AndroidManifest.xml:7:9-43
 	android:allowBackup
-		ADDED from C:\IdeaProjects\lab_5\app\src\main\AndroidManifest.xml:6:9-35
+		ADDED from C:\IdeaProjects\lab5\app\src\main\AndroidManifest.xml:6:9-35
 	android:theme
-		ADDED from C:\IdeaProjects\lab_5\app\src\main\AndroidManifest.xml:11:9-44
-activity#ua.kpi.compys.iv8108.lab4.AddMovieActivity
-ADDED from C:\IdeaProjects\lab_5\app\src\main\AndroidManifest.xml:12:9-59
+		ADDED from C:\IdeaProjects\lab5\app\src\main\AndroidManifest.xml:11:9-44
+activity#ua.kpi.compys.iv8108.movies.MovieDetailsActivity
+ADDED from C:\IdeaProjects\lab5\app\src\main\AndroidManifest.xml:12:9-74
 	android:name
-		ADDED from C:\IdeaProjects\lab_5\app\src\main\AndroidManifest.xml:12:19-56
-activity#ua.kpi.compys.iv8108.lab4.MovieActivity
-ADDED from C:\IdeaProjects\lab_5\app\src\main\AndroidManifest.xml:13:9-56
-	android:name
-		ADDED from C:\IdeaProjects\lab_5\app\src\main\AndroidManifest.xml:13:19-53
+		ADDED from C:\IdeaProjects\lab5\app\src\main\AndroidManifest.xml:12:19-62
 activity#ua.kpi.compys.iv8108.MainActivity
-ADDED from C:\IdeaProjects\lab_5\app\src\main\AndroidManifest.xml:14:9-23:20
+ADDED from C:\IdeaProjects\lab5\app\src\main\AndroidManifest.xml:13:9-22:20
 	android:label
-		ADDED from C:\IdeaProjects\lab_5\app\src\main\AndroidManifest.xml:16:13-45
+		ADDED from C:\IdeaProjects\lab5\app\src\main\AndroidManifest.xml:15:13-45
 	android:theme
-		ADDED from C:\IdeaProjects\lab_5\app\src\main\AndroidManifest.xml:17:13-60
+		ADDED from C:\IdeaProjects\lab5\app\src\main\AndroidManifest.xml:16:13-60
 	android:name
-		ADDED from C:\IdeaProjects\lab_5\app\src\main\AndroidManifest.xml:15:13-41
+		ADDED from C:\IdeaProjects\lab5\app\src\main\AndroidManifest.xml:14:13-41
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from C:\IdeaProjects\lab_5\app\src\main\AndroidManifest.xml:18:13-22:29
+ADDED from C:\IdeaProjects\lab5\app\src\main\AndroidManifest.xml:17:13-21:29
 action#android.intent.action.MAIN
-ADDED from C:\IdeaProjects\lab_5\app\src\main\AndroidManifest.xml:19:17-69
+ADDED from C:\IdeaProjects\lab5\app\src\main\AndroidManifest.xml:18:17-69
 	android:name
-		ADDED from C:\IdeaProjects\lab_5\app\src\main\AndroidManifest.xml:19:25-66
+		ADDED from C:\IdeaProjects\lab5\app\src\main\AndroidManifest.xml:18:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\IdeaProjects\lab_5\app\src\main\AndroidManifest.xml:21:17-77
+ADDED from C:\IdeaProjects\lab5\app\src\main\AndroidManifest.xml:20:17-77
 	android:name
-		ADDED from C:\IdeaProjects\lab_5\app\src\main\AndroidManifest.xml:21:27-74
+		ADDED from C:\IdeaProjects\lab5\app\src\main\AndroidManifest.xml:20:27-74
 uses-sdk
-INJECTED from C:\IdeaProjects\lab_5\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from C:\IdeaProjects\lab_5\app\src\main\AndroidManifest.xml
-INJECTED from C:\IdeaProjects\lab_5\app\src\main\AndroidManifest.xml
+INJECTED from C:\IdeaProjects\lab5\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\IdeaProjects\lab5\app\src\main\AndroidManifest.xml
+INJECTED from C:\IdeaProjects\lab5\app\src\main\AndroidManifest.xml
 MERGED from [com.google.android.material:material:1.1.0] C:\Users\hehmde\.gradle\caches\transforms-2\files-2.1\8ad8269c0a879b235a19dc8e7219d938\material-1.1.0\AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.material:material:1.1.0] C:\Users\hehmde\.gradle\caches\transforms-2\files-2.1\8ad8269c0a879b235a19dc8e7219d938\material-1.1.0\AndroidManifest.xml:20:5-44
 MERGED from [com.amitshekhar.android:android-networking:1.0.2] C:\Users\hehmde\.gradle\caches\transforms-2\files-2.1\33339155e0732cdc9b7c5864d106c0a9\jetified-android-networking-1.0.2\AndroidManifest.xml:23:5-25:41
@@ -223,16 +219,16 @@ MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\hehmde\.gradle\c
 MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\hehmde\.gradle\caches\transforms-2\files-2.1\054d779a91766207571d826869795163\interpolator-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [com.koushikdutta.async:androidasync:3.1.0] C:\Users\hehmde\.gradle\caches\transforms-2\files-2.1\1b73e401c708a1e6517a46f007c56820\jetified-androidasync-3.1.0\AndroidManifest.xml:7:5-9:41
 MERGED from [com.koushikdutta.async:androidasync:3.1.0] C:\Users\hehmde\.gradle\caches\transforms-2\files-2.1\1b73e401c708a1e6517a46f007c56820\jetified-androidasync-3.1.0\AndroidManifest.xml:7:5-9:41
-INJECTED from C:\IdeaProjects\lab_5\app\src\main\AndroidManifest.xml
-INJECTED from C:\IdeaProjects\lab_5\app\src\main\AndroidManifest.xml
+INJECTED from C:\IdeaProjects\lab5\app\src\main\AndroidManifest.xml
+INJECTED from C:\IdeaProjects\lab5\app\src\main\AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from C:\IdeaProjects\lab_5\app\src\main\AndroidManifest.xml
-		ADDED from C:\IdeaProjects\lab_5\app\src\main\AndroidManifest.xml
-		INJECTED from C:\IdeaProjects\lab_5\app\src\main\AndroidManifest.xml
+		INJECTED from C:\IdeaProjects\lab5\app\src\main\AndroidManifest.xml
+		ADDED from C:\IdeaProjects\lab5\app\src\main\AndroidManifest.xml
+		INJECTED from C:\IdeaProjects\lab5\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from C:\IdeaProjects\lab_5\app\src\main\AndroidManifest.xml
-		ADDED from C:\IdeaProjects\lab_5\app\src\main\AndroidManifest.xml
-		INJECTED from C:\IdeaProjects\lab_5\app\src\main\AndroidManifest.xml
+		INJECTED from C:\IdeaProjects\lab5\app\src\main\AndroidManifest.xml
+		ADDED from C:\IdeaProjects\lab5\app\src\main\AndroidManifest.xml
+		INJECTED from C:\IdeaProjects\lab5\app\src\main\AndroidManifest.xml
 uses-permission#android.permission.INTERNET
 ADDED from [com.koushikdutta.ion:ion:3.1.0] C:\Users\hehmde\.gradle\caches\transforms-2\files-2.1\dbd9ef44206c2223c68e9615e05bfcd3\jetified-ion-3.1.0\AndroidManifest.xml:11:5-67
 MERGED from [com.koushikdutta.async:androidasync:3.1.0] C:\Users\hehmde\.gradle\caches\transforms-2\files-2.1\1b73e401c708a1e6517a46f007c56820\jetified-androidasync-3.1.0\AndroidManifest.xml:11:5-67

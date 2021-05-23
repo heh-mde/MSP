@@ -1,210 +1,218 @@
 [
     {
-        "merged": "C:\\IdeaProjects\\lab_5\\app\\build\\intermediates\\res\\merged\\debug\\layout_frag_third.xml.flat",
-        "source": "C:\\IdeaProjects\\lab_5\\app\\src\\main\\res\\layout\\frag_third.xml"
+        "merged": "C:\\IdeaProjects\\lab5\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_main.xml.flat",
+        "source": "C:\\IdeaProjects\\lab5\\app\\src\\main\\res\\layout\\fragment_main.xml"
     },
     {
-        "merged": "C:\\IdeaProjects\\lab_5\\app\\build\\intermediates\\res\\merged\\debug\\drawable_poster_03.jpg.flat",
-        "source": "C:\\IdeaProjects\\lab_5\\app\\src\\main\\res\\drawable\\poster_03.jpg"
+        "merged": "C:\\IdeaProjects\\lab5\\app\\build\\intermediates\\res\\merged\\debug\\raw_tt2527336.txt.flat",
+        "source": "C:\\IdeaProjects\\lab5\\app\\src\\main\\res\\raw\\tt2527336.txt"
     },
     {
-        "merged": "C:\\IdeaProjects\\lab_5\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_dashboard_black_24dp.xml.flat",
-        "source": "C:\\IdeaProjects\\lab_5\\app\\src\\main\\res\\drawable\\ic_dashboard_black_24dp.xml"
+        "merged": "C:\\IdeaProjects\\lab5\\app\\build\\intermediates\\res\\merged\\debug\\layout_listview_item.xml.flat",
+        "source": "C:\\IdeaProjects\\lab5\\app\\src\\main\\res\\layout\\listview_item.xml"
     },
     {
-        "merged": "C:\\IdeaProjects\\lab_5\\app\\build\\intermediates\\res\\merged\\debug\\raw_tt0121766.txt.flat",
-        "source": "C:\\IdeaProjects\\lab_5\\app\\src\\main\\res\\raw\\tt0121766.txt"
+        "merged": "C:\\IdeaProjects\\lab5\\app\\build\\intermediates\\res\\merged\\debug\\raw_tt0796366.txt.flat",
+        "source": "C:\\IdeaProjects\\lab5\\app\\src\\main\\res\\raw\\tt0796366.txt"
     },
     {
-        "merged": "C:\\IdeaProjects\\lab_5\\app\\build\\intermediates\\res\\merged\\debug\\raw_tt0120915.txt.flat",
-        "source": "C:\\IdeaProjects\\lab_5\\app\\src\\main\\res\\raw\\tt0120915.txt"
+        "merged": "C:\\IdeaProjects\\lab5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_gallery.xml.flat",
+        "source": "C:\\IdeaProjects\\lab5\\app\\src\\main\\res\\drawable-xxhdpi\\ic_gallery.xml"
     },
     {
-        "merged": "C:\\IdeaProjects\\lab_5\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_foreground.png.flat",
-        "source": "C:\\IdeaProjects\\lab_5\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_foreground.png"
+        "merged": "C:\\IdeaProjects\\lab5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi_ic_spinner_pb.xml.flat",
+        "source": "C:\\IdeaProjects\\lab5\\app\\src\\main\\res\\drawable-anydpi\\ic_spinner_pb.xml"
     },
     {
-        "merged": "C:\\IdeaProjects\\lab_5\\app\\build\\intermediates\\res\\merged\\debug\\raw_tt0080684.txt.flat",
-        "source": "C:\\IdeaProjects\\lab_5\\app\\src\\main\\res\\raw\\tt0080684.txt"
+        "merged": "C:\\IdeaProjects\\lab5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_action_home.png.flat",
+        "source": "C:\\IdeaProjects\\lab5\\app\\src\\main\\res\\drawable-hdpi\\ic_action_home.png"
     },
     {
-        "merged": "C:\\IdeaProjects\\lab_5\\app\\build\\intermediates\\res\\merged\\debug\\raw_tt2527336.txt.flat",
-        "source": "C:\\IdeaProjects\\lab_5\\app\\src\\main\\res\\raw\\tt2527336.txt"
+        "merged": "C:\\IdeaProjects\\lab5\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\IdeaProjects\\lab5\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_foreground.png"
     },
     {
-        "merged": "C:\\IdeaProjects\\lab_5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher_foreground.xml.flat",
-        "source": "C:\\IdeaProjects\\lab_5\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher_foreground.xml"
+        "merged": "C:\\IdeaProjects\\lab5\\app\\build\\intermediates\\res\\merged\\debug\\drawable_poster_02.jpg.flat",
+        "source": "C:\\IdeaProjects\\lab5\\app\\src\\main\\res\\drawable\\poster_02.jpg"
     },
     {
-        "merged": "C:\\IdeaProjects\\lab_5\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
-        "source": "C:\\IdeaProjects\\lab_5\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_foreground.png"
+        "merged": "C:\\IdeaProjects\\lab5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi_ic_action_home.xml.flat",
+        "source": "C:\\IdeaProjects\\lab5\\app\\src\\main\\res\\drawable-anydpi\\ic_action_home.xml"
     },
     {
-        "merged": "C:\\IdeaProjects\\lab_5\\app\\build\\intermediates\\res\\merged\\debug\\raw_tt3748528.txt.flat",
-        "source": "C:\\IdeaProjects\\lab_5\\app\\src\\main\\res\\raw\\tt3748528.txt"
+        "merged": "C:\\IdeaProjects\\lab5\\app\\build\\intermediates\\res\\merged\\debug\\raw_tt0120915.txt.flat",
+        "source": "C:\\IdeaProjects\\lab5\\app\\src\\main\\res\\raw\\tt0120915.txt"
     },
     {
-        "merged": "C:\\IdeaProjects\\lab_5\\app\\build\\intermediates\\res\\merged\\debug\\raw_tt0121765.txt.flat",
-        "source": "C:\\IdeaProjects\\lab_5\\app\\src\\main\\res\\raw\\tt0121765.txt"
+        "merged": "C:\\IdeaProjects\\lab5\\app\\build\\intermediates\\res\\merged\\debug\\drawable_poster_10.jpg.flat",
+        "source": "C:\\IdeaProjects\\lab5\\app\\src\\main\\res\\drawable\\poster_10.jpg"
     },
     {
-        "merged": "C:\\IdeaProjects\\lab_5\\app\\build\\intermediates\\res\\merged\\debug\\drawable_poster_10.jpg.flat",
-        "source": "C:\\IdeaProjects\\lab_5\\app\\src\\main\\res\\drawable\\poster_10.jpg"
+        "merged": "C:\\IdeaProjects\\lab5\\app\\build\\intermediates\\res\\merged\\debug\\layout-land_item_picture.xml.flat",
+        "source": "C:\\IdeaProjects\\lab5\\app\\src\\main\\res\\layout-land\\item_picture.xml"
     },
     {
-        "merged": "C:\\IdeaProjects\\lab_5\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
-        "source": "C:\\IdeaProjects\\lab_5\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+        "merged": "C:\\IdeaProjects\\lab5\\app\\build\\intermediates\\res\\merged\\debug\\raw_tt0080684.txt.flat",
+        "source": "C:\\IdeaProjects\\lab5\\app\\src\\main\\res\\raw\\tt0080684.txt"
     },
     {
-        "merged": "C:\\IdeaProjects\\lab_5\\app\\build\\intermediates\\res\\merged\\debug\\raw_tt0796366.txt.flat",
-        "source": "C:\\IdeaProjects\\lab_5\\app\\src\\main\\res\\raw\\tt0796366.txt"
+        "merged": "C:\\IdeaProjects\\lab5\\app\\build\\intermediates\\res\\merged\\debug\\raw_tt0121766.txt.flat",
+        "source": "C:\\IdeaProjects\\lab5\\app\\src\\main\\res\\raw\\tt0121766.txt"
     },
     {
-        "merged": "C:\\IdeaProjects\\lab_5\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
-        "source": "C:\\IdeaProjects\\lab_5\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+        "merged": "C:\\IdeaProjects\\lab5\\app\\build\\intermediates\\res\\merged\\debug\\raw_tt3748528.txt.flat",
+        "source": "C:\\IdeaProjects\\lab5\\app\\src\\main\\res\\raw\\tt3748528.txt"
     },
     {
-        "merged": "C:\\IdeaProjects\\lab_5\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_notifications_black_24dp.xml.flat",
-        "source": "C:\\IdeaProjects\\lab_5\\app\\src\\main\\res\\drawable\\ic_notifications_black_24dp.xml"
+        "merged": "C:\\IdeaProjects\\lab5\\app\\build\\intermediates\\res\\merged\\debug\\drawable_poster_08.jpg.flat",
+        "source": "C:\\IdeaProjects\\lab5\\app\\src\\main\\res\\drawable\\poster_08.jpg"
     },
     {
-        "merged": "C:\\IdeaProjects\\lab_5\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_foreground.png.flat",
-        "source": "C:\\IdeaProjects\\lab_5\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_foreground.png"
+        "merged": "C:\\IdeaProjects\\lab5\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_movie_details.xml.flat",
+        "source": "C:\\IdeaProjects\\lab5\\app\\src\\main\\res\\layout\\activity_movie_details.xml"
     },
     {
-        "merged": "C:\\IdeaProjects\\lab_5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_action_home.png.flat",
-        "source": "C:\\IdeaProjects\\lab_5\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_home.png"
+        "merged": "C:\\IdeaProjects\\lab5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_delete.xml.flat",
+        "source": "C:\\IdeaProjects\\lab5\\app\\src\\main\\res\\drawable-hdpi\\ic_delete.xml"
     },
     {
-        "merged": "C:\\IdeaProjects\\lab_5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_action_home.png.flat",
-        "source": "C:\\IdeaProjects\\lab_5\\app\\src\\main\\res\\drawable-xxhdpi\\ic_action_home.png"
+        "merged": "C:\\IdeaProjects\\lab5\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\IdeaProjects\\lab5\\app\\src\\main\\res\\drawable\\ic_launcher_foreground.xml"
     },
     {
-        "merged": "C:\\IdeaProjects\\lab_5\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_foreground.xml.flat",
-        "source": "C:\\IdeaProjects\\lab_5\\app\\src\\main\\res\\drawable\\ic_launcher_foreground.xml"
+        "merged": "C:\\IdeaProjects\\lab5\\app\\build\\intermediates\\res\\merged\\debug\\raw_tt0086190.txt.flat",
+        "source": "C:\\IdeaProjects\\lab5\\app\\src\\main\\res\\raw\\tt0086190.txt"
     },
     {
-        "merged": "C:\\IdeaProjects\\lab_5\\app\\build\\intermediates\\res\\merged\\debug\\raw_tt2488496.txt.flat",
-        "source": "C:\\IdeaProjects\\lab_5\\app\\src\\main\\res\\raw\\tt2488496.txt"
+        "merged": "C:\\IdeaProjects\\lab5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_action_home.png.flat",
+        "source": "C:\\IdeaProjects\\lab5\\app\\src\\main\\res\\drawable-xxhdpi\\ic_action_home.png"
     },
     {
-        "merged": "C:\\IdeaProjects\\lab_5\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_movie.xml.flat",
-        "source": "C:\\IdeaProjects\\lab_5\\app\\src\\main\\res\\layout\\activity_movie.xml"
+        "merged": "C:\\IdeaProjects\\lab5\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\IdeaProjects\\lab5\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
     },
     {
-        "merged": "C:\\IdeaProjects\\lab_5\\app\\build\\intermediates\\res\\merged\\debug\\raw_tt0076759.txt.flat",
-        "source": "C:\\IdeaProjects\\lab_5\\app\\src\\main\\res\\raw\\tt0076759.txt"
+        "merged": "C:\\IdeaProjects\\lab5\\app\\build\\intermediates\\res\\merged\\debug\\layout_frag_second.xml.flat",
+        "source": "C:\\IdeaProjects\\lab5\\app\\src\\main\\res\\layout\\frag_second.xml"
     },
     {
-        "merged": "C:\\IdeaProjects\\lab_5\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_main.xml.flat",
-        "source": "C:\\IdeaProjects\\lab_5\\app\\src\\main\\res\\layout\\fragment_main.xml"
+        "merged": "C:\\IdeaProjects\\lab5\\app\\build\\intermediates\\res\\merged\\debug\\drawable_poster_01.jpg.flat",
+        "source": "C:\\IdeaProjects\\lab5\\app\\src\\main\\res\\drawable\\poster_01.jpg"
     },
     {
-        "merged": "C:\\IdeaProjects\\lab_5\\app\\build\\intermediates\\res\\merged\\debug\\drawable_poster_07.jpg.flat",
-        "source": "C:\\IdeaProjects\\lab_5\\app\\src\\main\\res\\drawable\\poster_07.jpg"
+        "merged": "C:\\IdeaProjects\\lab5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_action_home.png.flat",
+        "source": "C:\\IdeaProjects\\lab5\\app\\src\\main\\res\\drawable-mdpi\\ic_action_home.png"
     },
     {
-        "merged": "C:\\IdeaProjects\\lab_5\\app\\build\\intermediates\\res\\merged\\debug\\layout-land_item_picture.xml.flat",
-        "source": "C:\\IdeaProjects\\lab_5\\app\\src\\main\\res\\layout-land\\item_picture.xml"
+        "merged": "C:\\IdeaProjects\\lab5\\app\\build\\intermediates\\res\\merged\\debug\\raw_tt0076759.txt.flat",
+        "source": "C:\\IdeaProjects\\lab5\\app\\src\\main\\res\\raw\\tt0076759.txt"
     },
     {
-        "merged": "C:\\IdeaProjects\\lab_5\\app\\build\\intermediates\\res\\merged\\debug\\raw_tt0086190.txt.flat",
-        "source": "C:\\IdeaProjects\\lab_5\\app\\src\\main\\res\\raw\\tt0086190.txt"
+        "merged": "C:\\IdeaProjects\\lab5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_baseline_add_box_24.xml.flat",
+        "source": "C:\\IdeaProjects\\lab5\\app\\src\\main\\res\\drawable-xxhdpi\\ic_baseline_add_box_24.xml"
     },
     {
-        "merged": "C:\\IdeaProjects\\lab_5\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_add_movie.xml.flat",
-        "source": "C:\\IdeaProjects\\lab_5\\app\\src\\main\\res\\layout\\activity_add_movie.xml"
+        "merged": "C:\\IdeaProjects\\lab5\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\IdeaProjects\\lab5\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_foreground.png"
     },
     {
-        "merged": "C:\\IdeaProjects\\lab_5\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
-        "source": "C:\\IdeaProjects\\lab_5\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_foreground.png"
+        "merged": "C:\\IdeaProjects\\lab5\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\IdeaProjects\\lab5\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_foreground.png"
     },
     {
-        "merged": "C:\\IdeaProjects\\lab_5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_action_home.png.flat",
-        "source": "C:\\IdeaProjects\\lab_5\\app\\src\\main\\res\\drawable-hdpi\\ic_action_home.png"
+        "merged": "C:\\IdeaProjects\\lab5\\app\\build\\intermediates\\res\\merged\\debug\\raw_tt2488496.txt.flat",
+        "source": "C:\\IdeaProjects\\lab5\\app\\src\\main\\res\\raw\\tt2488496.txt"
     },
     {
-        "merged": "C:\\IdeaProjects\\lab_5\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_home_black_24dp.xml.flat",
-        "source": "C:\\IdeaProjects\\lab_5\\app\\src\\main\\res\\drawable\\ic_home_black_24dp.xml"
+        "merged": "C:\\IdeaProjects\\lab5\\app\\build\\intermediates\\res\\merged\\debug\\drawable_poster_05.jpg.flat",
+        "source": "C:\\IdeaProjects\\lab5\\app\\src\\main\\res\\drawable\\poster_05.jpg"
     },
     {
-        "merged": "C:\\IdeaProjects\\lab_5\\app\\build\\intermediates\\res\\merged\\debug\\raw_movieslist.txt.flat",
-        "source": "C:\\IdeaProjects\\lab_5\\app\\src\\main\\res\\raw\\movieslist.txt"
+        "merged": "C:\\IdeaProjects\\lab5\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\IdeaProjects\\lab5\\app\\src\\main\\res\\layout\\activity_main.xml"
     },
     {
-        "merged": "C:\\IdeaProjects\\lab_5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi_ic_spinner_pb.xml.flat",
-        "source": "C:\\IdeaProjects\\lab_5\\app\\src\\main\\res\\drawable-anydpi\\ic_spinner_pb.xml"
+        "merged": "C:\\IdeaProjects\\lab5\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_notifications_black_24dp.xml.flat",
+        "source": "C:\\IdeaProjects\\lab5\\app\\src\\main\\res\\drawable\\ic_notifications_black_24dp.xml"
     },
     {
-        "merged": "C:\\IdeaProjects\\lab_5\\app\\build\\intermediates\\res\\merged\\debug\\drawable_poster_05.jpg.flat",
-        "source": "C:\\IdeaProjects\\lab_5\\app\\src\\main\\res\\drawable\\poster_05.jpg"
+        "merged": "C:\\IdeaProjects\\lab5\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_movies.xml.flat",
+        "source": "C:\\IdeaProjects\\lab5\\app\\src\\main\\res\\layout\\fragment_movies.xml"
     },
     {
-        "merged": "C:\\IdeaProjects\\lab_5\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
-        "source": "C:\\IdeaProjects\\lab_5\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
+        "merged": "C:\\IdeaProjects\\lab5\\app\\build\\intermediates\\res\\merged\\debug\\raw_tt0121765.txt.flat",
+        "source": "C:\\IdeaProjects\\lab5\\app\\src\\main\\res\\raw\\tt0121765.txt"
     },
     {
-        "merged": "C:\\IdeaProjects\\lab_5\\app\\build\\intermediates\\res\\merged\\debug\\drawable_poster_01.jpg.flat",
-        "source": "C:\\IdeaProjects\\lab_5\\app\\src\\main\\res\\drawable\\poster_01.jpg"
+        "merged": "C:\\IdeaProjects\\lab5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher_foreground.xml.flat",
+        "source": "C:\\IdeaProjects\\lab5\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher_foreground.xml"
     },
     {
-        "merged": "C:\\IdeaProjects\\lab_5\\app\\build\\intermediates\\res\\merged\\debug\\layout-land_frag_second.xml.flat",
-        "source": "C:\\IdeaProjects\\lab_5\\app\\src\\main\\res\\layout-land\\frag_second.xml"
+        "merged": "C:\\IdeaProjects\\lab5\\app\\build\\intermediates\\res\\merged\\debug\\drawable_poster_07.jpg.flat",
+        "source": "C:\\IdeaProjects\\lab5\\app\\src\\main\\res\\drawable\\poster_07.jpg"
     },
     {
-        "merged": "C:\\IdeaProjects\\lab_5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_delete.xml.flat",
-        "source": "C:\\IdeaProjects\\lab_5\\app\\src\\main\\res\\drawable-hdpi\\ic_delete.xml"
+        "merged": "C:\\IdeaProjects\\lab5\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\IdeaProjects\\lab5\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_foreground.png"
     },
     {
-        "merged": "C:\\IdeaProjects\\lab_5\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_picture.xml.flat",
-        "source": "C:\\IdeaProjects\\lab_5\\app\\src\\main\\res\\layout\\item_picture.xml"
+        "merged": "C:\\IdeaProjects\\lab5\\app\\build\\intermediates\\res\\merged\\debug\\raw_movieslist.txt.flat",
+        "source": "C:\\IdeaProjects\\lab5\\app\\src\\main\\res\\raw\\movieslist.txt"
     },
     {
-        "merged": "C:\\IdeaProjects\\lab_5\\app\\build\\intermediates\\res\\merged\\debug\\menu_search_menu.xml.flat",
-        "source": "C:\\IdeaProjects\\lab_5\\app\\src\\main\\res\\menu\\search_menu.xml"
+        "merged": "C:\\IdeaProjects\\lab5\\app\\build\\intermediates\\res\\merged\\debug\\layout-land_fragment_gallery.xml.flat",
+        "source": "C:\\IdeaProjects\\lab5\\app\\src\\main\\res\\layout-land\\fragment_gallery.xml"
     },
     {
-        "merged": "C:\\IdeaProjects\\lab_5\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_gallery.xml.flat",
-        "source": "C:\\IdeaProjects\\lab_5\\app\\src\\main\\res\\layout\\fragment_gallery.xml"
+        "merged": "C:\\IdeaProjects\\lab5\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_picture.xml.flat",
+        "source": "C:\\IdeaProjects\\lab5\\app\\src\\main\\res\\layout\\item_picture.xml"
     },
     {
-        "merged": "C:\\IdeaProjects\\lab_5\\app\\build\\intermediates\\res\\merged\\debug\\drawable_poster_08.jpg.flat",
-        "source": "C:\\IdeaProjects\\lab_5\\app\\src\\main\\res\\drawable\\poster_08.jpg"
+        "merged": "C:\\IdeaProjects\\lab5\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_home_black_24dp.xml.flat",
+        "source": "C:\\IdeaProjects\\lab5\\app\\src\\main\\res\\drawable\\ic_home_black_24dp.xml"
     },
     {
-        "merged": "C:\\IdeaProjects\\lab_5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_action_home.png.flat",
-        "source": "C:\\IdeaProjects\\lab_5\\app\\src\\main\\res\\drawable-mdpi\\ic_action_home.png"
+        "merged": "C:\\IdeaProjects\\lab5\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\IdeaProjects\\lab5\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
     },
     {
-        "merged": "C:\\IdeaProjects\\lab_5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi_ic_action_home.xml.flat",
-        "source": "C:\\IdeaProjects\\lab_5\\app\\src\\main\\res\\drawable-anydpi\\ic_action_home.xml"
+        "merged": "C:\\IdeaProjects\\lab5\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\IdeaProjects\\lab5\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
     },
     {
-        "merged": "C:\\IdeaProjects\\lab_5\\app\\build\\intermediates\\res\\merged\\debug\\drawable_poster_06.jpg.flat",
-        "source": "C:\\IdeaProjects\\lab_5\\app\\src\\main\\res\\drawable\\poster_06.jpg"
+        "merged": "C:\\IdeaProjects\\lab5\\app\\build\\intermediates\\res\\merged\\debug\\layout-land_frag_second.xml.flat",
+        "source": "C:\\IdeaProjects\\lab5\\app\\src\\main\\res\\layout-land\\frag_second.xml"
     },
     {
-        "merged": "C:\\IdeaProjects\\lab_5\\app\\build\\intermediates\\res\\merged\\debug\\layout-land_fragment_gallery.xml.flat",
-        "source": "C:\\IdeaProjects\\lab_5\\app\\src\\main\\res\\layout-land\\fragment_gallery.xml"
+        "merged": "C:\\IdeaProjects\\lab5\\app\\build\\intermediates\\res\\merged\\debug\\drawable_poster_06.jpg.flat",
+        "source": "C:\\IdeaProjects\\lab5\\app\\src\\main\\res\\drawable\\poster_06.jpg"
     },
     {
-        "merged": "C:\\IdeaProjects\\lab_5\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_movie.xml.flat",
-        "source": "C:\\IdeaProjects\\lab_5\\app\\src\\main\\res\\layout\\item_movie.xml"
+        "merged": "C:\\IdeaProjects\\lab5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_action_home.png.flat",
+        "source": "C:\\IdeaProjects\\lab5\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_home.png"
     },
     {
-        "merged": "C:\\IdeaProjects\\lab_5\\app\\build\\intermediates\\res\\merged\\debug\\layout_frag_second.xml.flat",
-        "source": "C:\\IdeaProjects\\lab_5\\app\\src\\main\\res\\layout\\frag_second.xml"
+        "merged": "C:\\IdeaProjects\\lab5\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_lab1_1.xml.flat",
+        "source": "C:\\IdeaProjects\\lab5\\app\\src\\main\\res\\layout\\fragment_lab1_1.xml"
     },
     {
-        "merged": "C:\\IdeaProjects\\lab_5\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
-        "source": "C:\\IdeaProjects\\lab_5\\app\\src\\main\\res\\layout\\activity_main.xml"
+        "merged": "C:\\IdeaProjects\\lab5\\app\\build\\intermediates\\res\\merged\\debug\\menu_search_menu.xml.flat",
+        "source": "C:\\IdeaProjects\\lab5\\app\\src\\main\\res\\menu\\search_menu.xml"
     },
     {
-        "merged": "C:\\IdeaProjects\\lab_5\\app\\build\\intermediates\\res\\merged\\debug\\drawable_poster_02.jpg.flat",
-        "source": "C:\\IdeaProjects\\lab_5\\app\\src\\main\\res\\drawable\\poster_02.jpg"
+        "merged": "C:\\IdeaProjects\\lab5\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_gallery.xml.flat",
+        "source": "C:\\IdeaProjects\\lab5\\app\\src\\main\\res\\layout\\fragment_gallery.xml"
     },
     {
-        "merged": "C:\\IdeaProjects\\lab_5\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_lab1_1.xml.flat",
-        "source": "C:\\IdeaProjects\\lab_5\\app\\src\\main\\res\\layout\\fragment_lab1_1.xml"
+        "merged": "C:\\IdeaProjects\\lab5\\app\\build\\intermediates\\res\\merged\\debug\\drawable_poster_03.jpg.flat",
+        "source": "C:\\IdeaProjects\\lab5\\app\\src\\main\\res\\drawable\\poster_03.jpg"
+    },
+    {
+        "merged": "C:\\IdeaProjects\\lab5\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_dashboard_black_24dp.xml.flat",
+        "source": "C:\\IdeaProjects\\lab5\\app\\src\\main\\res\\drawable\\ic_dashboard_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\IdeaProjects\\lab5\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_movie.xml.flat",
+        "source": "C:\\IdeaProjects\\lab5\\app\\src\\main\\res\\layout\\activity_movie.xml"
     }
 ]

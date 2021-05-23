@@ -10,7 +10,7 @@ import androidx.fragment.app.FragmentPagerAdapter;
 
 import ua.kpi.compys.iv8108.R;
 import ua.kpi.compys.iv8108.gallery.GalleryFragment;
-import ua.kpi.compys.iv8108.lab4.ListViewController;
+import ua.kpi.compys.iv8108.movies.MoviesFragment;
 
 public class SectionsPagerAdapter extends FragmentPagerAdapter {
 
@@ -31,7 +31,7 @@ public class SectionsPagerAdapter extends FragmentPagerAdapter {
             case 1:
                 return new DrawingViewController();
             case 2:
-                return new ListViewController();
+                return new MoviesFragment();
             case 3:
                 return new GalleryFragment();
             default:
